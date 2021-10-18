@@ -12,7 +12,9 @@ And then the Unzip the file.
             Pierre,87.8
             
 Go to in File and do "Save All"
+
 4. Go to the tree structure src -> main -> java -> org -> example -> Program
 Right click and click on "Run Program"
+
 5. Go to the src tree -> main -> resources -> out
 to see the content of the transformation result file.
