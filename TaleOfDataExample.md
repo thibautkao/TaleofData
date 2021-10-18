@@ -1,3 +1,5 @@
+*** Explanation of the implementation of the program. ***
+
 1- We have created a generic class to avoid the strong coupling with a particular data type.
 2- Our program uses a layered architecture:
    bean: contains our POJOs or bean
