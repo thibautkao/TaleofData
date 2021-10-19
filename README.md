@@ -39,4 +39,4 @@ Service: we have a generic class which has three main functions namely:
      parameter, a functional interface: Function <T, T>
  a function for saving data transformed into a file
 
-Main: the main program which calls the functions to process our file is passed as a parameter
+Main: the main program which calls the functions to process our file is passed as a parameter.
