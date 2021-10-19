@@ -1,0 +1,13 @@
+
+J
+java:S3740#"/Provide the parametrized type for this generic.(öŸøñÿÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–¶«²þÿÿÿÿ
+q
+java:S42766"VRefactor this code to use the more specialised Functional Interface 'UnaryOperator<T>'(üªàÖùÿÿÿÿ
+_
+java:S3252G"IUse static access with "com.opencsv.ICSVWriter" for "NO_QUOTE_CHARACTER".(ÆÊ¯ö
+?
+java:S2629,"$Invoke method(s) only conditionally.(²Ðª¾þÿÿÿÿ
+?
+java:S2629L"$Invoke method(s) only conditionally.(²Ðª¾þÿÿÿÿ
